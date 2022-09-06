@@ -4,123 +4,123 @@ mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"type":"ssr","name":"🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶1SSR","server":"clash1.ssrfree1.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
-  - {"type":"ssr","name":"🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶2SSR","server":"clash1-2.ssrfree1.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
-  - {"type":"ssr","name":"🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶3SSR","server":"clash1-3.ssrfree1.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
-  - {"type":"ssr","name":"🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship3洛杉矶SSR","server":"clash3.ssrfree3.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
-  - {"type":"ssr","name":"🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship5洛杉矶","server":"clash5.ssrfree5.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
-  - {"type":"ssr","name":"🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2洛杉矶1","server":"zjg1.free4444.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
-  - {"type":"ssr","name":"🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2洛杉矶2","server":"zjg2.free4444.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
-  - {"type":"ssr","name":"🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶0SSR","server":"clash4.ssrfree4.xyz","port":22333,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
-  - {"type":"ssr","name":"🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2&ip4洛杉矶SSR","server":"clash4-2.ssrfree4.xyz","port":12345,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
-  - {"type":"ssr","name":"🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship6洛杉矶SSR","server":"clash6.ssrfree6.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
-  - {"type":"ssr","name":"https://github.com/Alvin9999/new-pac/wiki洛杉矶1SSR","server":"ssrfree3.free4444.xyz","port":22118,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
-  - {"type":"vmess","name":"https://github.com/Alvin9999/new-pac/wikig_洛杉矶","ws-opts":{"path":"/LCOVUWOD"},"server":"m6.v2rayfree1.xyz","port":"443","uuid":"8b17136b-1cde-4485-b3b7-0730acb6756c","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ssr","name":"🇺🇸洛杉矶9999-1.1","server":"clash1.ssrfree1.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
+  - {"type":"ssr","name":"🇺🇸洛杉矶9999-1.2","server":"clash1-2.ssrfree1.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
+  - {"type":"ssr","name":"🇺🇸洛杉矶9999-1.3","server":"clash1-3.ssrfree1.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
+  - {"type":"ssr","name":"🇺🇸洛杉矶9999-3.1","server":"clash3.ssrfree3.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
+  - {"type":"ssr","name":"🇺🇸洛杉矶9999-5.1","server":"clash5.ssrfree5.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
+  - {"type":"ssr","name":"🇺🇸洛杉矶9999-2.1","server":"zjg1.free4444.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
+  - {"type":"ssr","name":"🇺🇸洛杉矶9999-2.2","server":"zjg2.free4444.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
+  - {"type":"ssr","name":"🇺🇸洛杉矶9999-4.1","server":"clash4.ssrfree4.xyz","port":22333,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
+  - {"type":"ssr","name":"🇺🇸洛杉矶9999-4.2","server":"clash4-2.ssrfree4.xyz","port":12345,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
+  - {"type":"ssr","name":"🇺🇸洛杉矶9999-6.1","server":"clash6.ssrfree6.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
+  - {"type":"ssr","name":"🇺🇸洛杉矶9999-11","server":"ssrfree3.free4444.xyz","port":22118,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
+  - {"type":"vmess","name":"🇺🇸洛杉矶9999-12","ws-opts":{"path":"/LCOVUWOD"},"server":"m6.v2rayfree1.xyz","port":"443","uuid":"8b17136b-1cde-4485-b3b7-0730acb6756c","alterId":"0","cipher":"auto","network":"ws","tls":true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶1SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶2SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶3SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship3洛杉矶SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship5洛杉矶
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2洛杉矶1
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2洛杉矶2
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶0SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2&ip4洛杉矶SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship6洛杉矶SSR
-      - https://github.com/Alvin9999/new-pac/wiki洛杉矶1SSR
-      - https://github.com/Alvin9999/new-pac/wikig_洛杉矶
+      - 🇺🇸洛杉矶9999-1.1
+      - 🇺🇸洛杉矶9999-1.2
+      - 🇺🇸洛杉矶9999-1.3
+      - 🇺🇸洛杉矶9999-3.1
+      - 🇺🇸洛杉矶9999-5.1
+      - 🇺🇸洛杉矶9999-2.1
+      - 🇺🇸洛杉矶9999-2.2
+      - 🇺🇸洛杉矶9999-4.1
+      - 🇺🇸洛杉矶9999-4.2
+      - 🇺🇸洛杉矶9999-6.1
+      - 🇺🇸洛杉矶9999-11
+      - 🇺🇸洛杉矶9999-12
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶1SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶2SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶3SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship3洛杉矶SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship5洛杉矶
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2洛杉矶1
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2洛杉矶2
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶0SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2&ip4洛杉矶SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship6洛杉矶SSR
-      - https://github.com/Alvin9999/new-pac/wiki洛杉矶1SSR
-      - https://github.com/Alvin9999/new-pac/wikig_洛杉矶
+      - 🇺🇸洛杉矶9999-1.1
+      - 🇺🇸洛杉矶9999-1.2
+      - 🇺🇸洛杉矶9999-1.3
+      - 🇺🇸洛杉矶9999-3.1
+      - 🇺🇸洛杉矶9999-5.1
+      - 🇺🇸洛杉矶9999-2.1
+      - 🇺🇸洛杉矶9999-2.2
+      - 🇺🇸洛杉矶9999-4.1
+      - 🇺🇸洛杉矶9999-4.2
+      - 🇺🇸洛杉矶9999-6.1
+      - 🇺🇸洛杉矶9999-11
+      - 🇺🇸洛杉矶9999-12
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶1SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶2SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶3SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship3洛杉矶SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship5洛杉矶
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2洛杉矶1
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2洛杉矶2
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶0SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2&ip4洛杉矶SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship6洛杉矶SSR
-      - https://github.com/Alvin9999/new-pac/wiki洛杉矶1SSR
-      - https://github.com/Alvin9999/new-pac/wikig_洛杉矶
+      - 🇺🇸洛杉矶9999-1.1
+      - 🇺🇸洛杉矶9999-1.2
+      - 🇺🇸洛杉矶9999-1.3
+      - 🇺🇸洛杉矶9999-3.1
+      - 🇺🇸洛杉矶9999-5.1
+      - 🇺🇸洛杉矶9999-2.1
+      - 🇺🇸洛杉矶9999-2.2
+      - 🇺🇸洛杉矶9999-4.1
+      - 🇺🇸洛杉矶9999-4.2
+      - 🇺🇸洛杉矶9999-6.1
+      - 🇺🇸洛杉矶9999-11
+      - 🇺🇸洛杉矶9999-12
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶1SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶2SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶3SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship3洛杉矶SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship5洛杉矶
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2洛杉矶1
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2洛杉矶2
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶0SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2&ip4洛杉矶SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship6洛杉矶SSR
-      - https://github.com/Alvin9999/new-pac/wiki洛杉矶1SSR
-      - https://github.com/Alvin9999/new-pac/wikig_洛杉矶
+      - 🇺🇸洛杉矶9999-1.1
+      - 🇺🇸洛杉矶9999-1.2
+      - 🇺🇸洛杉矶9999-1.3
+      - 🇺🇸洛杉矶9999-3.1
+      - 🇺🇸洛杉矶9999-5.1
+      - 🇺🇸洛杉矶9999-2.1
+      - 🇺🇸洛杉矶9999-2.2
+      - 🇺🇸洛杉矶9999-4.1
+      - 🇺🇸洛杉矶9999-4.2
+      - 🇺🇸洛杉矶9999-6.1
+      - 🇺🇸洛杉矶9999-11
+      - 🇺🇸洛杉矶9999-12
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶1SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶2SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶3SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship3洛杉矶SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship5洛杉矶
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2洛杉矶1
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2洛杉矶2
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶0SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2&ip4洛杉矶SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship6洛杉矶SSR
-      - https://github.com/Alvin9999/new-pac/wiki洛杉矶1SSR
-      - https://github.com/Alvin9999/new-pac/wikig_洛杉矶
+      - 🇺🇸洛杉矶9999-1.1
+      - 🇺🇸洛杉矶9999-1.2
+      - 🇺🇸洛杉矶9999-1.3
+      - 🇺🇸洛杉矶9999-3.1
+      - 🇺🇸洛杉矶9999-5.1
+      - 🇺🇸洛杉矶9999-2.1
+      - 🇺🇸洛杉矶9999-2.2
+      - 🇺🇸洛杉矶9999-4.1
+      - 🇺🇸洛杉矶9999-4.2
+      - 🇺🇸洛杉矶9999-6.1
+      - 🇺🇸洛杉矶9999-11
+      - 🇺🇸洛杉矶9999-12
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶1SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶2SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶3SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship3洛杉矶SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship5洛杉矶
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2洛杉矶1
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2洛杉矶2
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶0SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2&ip4洛杉矶SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship6洛杉矶SSR
-      - https://github.com/Alvin9999/new-pac/wiki洛杉矶1SSR
-      - https://github.com/Alvin9999/new-pac/wikig_洛杉矶
+      - 🇺🇸洛杉矶9999-1.1
+      - 🇺🇸洛杉矶9999-1.2
+      - 🇺🇸洛杉矶9999-1.3
+      - 🇺🇸洛杉矶9999-3.1
+      - 🇺🇸洛杉矶9999-5.1
+      - 🇺🇸洛杉矶9999-2.1
+      - 🇺🇸洛杉矶9999-2.2
+      - 🇺🇸洛杉矶9999-4.1
+      - 🇺🇸洛杉矶9999-4.2
+      - 🇺🇸洛杉矶9999-6.1
+      - 🇺🇸洛杉矶9999-11
+      - 🇺🇸洛杉矶9999-12
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -143,18 +143,18 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶1SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶2SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶3SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship3洛杉矶SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship5洛杉矶
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2洛杉矶1
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2洛杉矶2
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship1洛杉矶0SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship2&ip4洛杉矶SSR
-      - 🇺🇸https://github.com/Alvin9999/new-pac/wikiclaship6洛杉矶SSR
-      - https://github.com/Alvin9999/new-pac/wiki洛杉矶1SSR
-      - https://github.com/Alvin9999/new-pac/wikig_洛杉矶
+      - 🇺🇸洛杉矶9999-1.1
+      - 🇺🇸洛杉矶9999-1.2
+      - 🇺🇸洛杉矶9999-1.3
+      - 🇺🇸洛杉矶9999-3.1
+      - 🇺🇸洛杉矶9999-5.1
+      - 🇺🇸洛杉矶9999-2.1
+      - 🇺🇸洛杉矶9999-2.2
+      - 🇺🇸洛杉矶9999-4.1
+      - 🇺🇸洛杉矶9999-4.2
+      - 🇺🇸洛杉矶9999-6.1
+      - 🇺🇸洛杉矶9999-11
+      - 🇺🇸洛杉矶9999-12
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
