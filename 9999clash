@@ -16,6 +16,8 @@ proxies:
   - {"type":"ssr","name":"🇺🇸洛杉矶-9999-6-1","server":"clash6.ssrfree6.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
   - {"type":"ssr","name":"🇺🇸洛杉矶-9999-11","server":"ssrfree3.free4444.xyz","port":22118,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
   - {"type":"vmess","name":"🇺🇸洛杉矶-9999-12","ws-opts":{"path":"/LCOVUWOD"},"server":"m6.v2rayfree1.xyz","port":"443","uuid":"8b17136b-1cde-4485-b3b7-0730acb6756c","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"diu7捞杰A","server":"64.112.42.53","port":16999,"cipher":"aes-256-gcm","password":"CBYyPc0GwoaQ9m2oqWdE"}
+  - {"type":"ss","name":"diu7捞杰B","server":"64.112.42.72","port":16999,"cipher":"aes-256-gcm","password":"CBYyPc0GwoaQ9m2oqWdE"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -34,6 +36,8 @@ proxy-groups:
       - 🇺🇸洛杉矶-9999-6-1
       - 🇺🇸洛杉矶-9999-11
       - 🇺🇸洛杉矶-9999-12
+      - diu7捞杰A
+      - diu7捞杰B
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -52,6 +56,8 @@ proxy-groups:
       - 🇺🇸洛杉矶-9999-6-1
       - 🇺🇸洛杉矶-9999-11
       - 🇺🇸洛杉矶-9999-12
+      - diu7捞杰A
+      - diu7捞杰B
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -70,6 +76,8 @@ proxy-groups:
       - 🇺🇸洛杉矶-9999-6-1
       - 🇺🇸洛杉矶-9999-11
       - 🇺🇸洛杉矶-9999-12
+      - diu7捞杰A
+      - diu7捞杰B
   - name: 📲 电报信息
     type: select
     proxies:
@@ -87,6 +95,8 @@ proxy-groups:
       - 🇺🇸洛杉矶-9999-6-1
       - 🇺🇸洛杉矶-9999-11
       - 🇺🇸洛杉矶-9999-12
+      - diu7捞杰A
+      - diu7捞杰B
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -104,6 +114,8 @@ proxy-groups:
       - 🇺🇸洛杉矶-9999-6-1
       - 🇺🇸洛杉矶-9999-11
       - 🇺🇸洛杉矶-9999-12
+      - diu7捞杰A
+      - diu7捞杰B
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -121,6 +133,8 @@ proxy-groups:
       - 🇺🇸洛杉矶-9999-6-1
       - 🇺🇸洛杉矶-9999-11
       - 🇺🇸洛杉矶-9999-12
+      - diu7捞杰A
+      - diu7捞杰B
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -155,6 +169,8 @@ proxy-groups:
       - 🇺🇸洛杉矶-9999-6-1
       - 🇺🇸洛杉矶-9999-11
       - 🇺🇸洛杉矶-9999-12
+      - diu7捞杰A
+      - diu7捞杰B
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
