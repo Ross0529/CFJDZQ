@@ -36,8 +36,8 @@ proxy-groups:
       - 🇺🇸洛杉矶-9999-6-1
       - 🇺🇸洛杉矶-9999-11
       - 🇺🇸洛杉矶-9999-12
-      - diu7捞杰A
-      - diu7捞杰B
+      - 爱吃小鱼花生的哎呀呀1
+      - 爱吃小鱼花生的哎呀呀2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -56,8 +56,8 @@ proxy-groups:
       - 🇺🇸洛杉矶-9999-6-1
       - 🇺🇸洛杉矶-9999-11
       - 🇺🇸洛杉矶-9999-12
-      - diu7捞杰A
-      - diu7捞杰B
+      - 爱吃小鱼花生的哎呀呀1
+      - 爱吃小鱼花生的哎呀呀2
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -76,8 +76,8 @@ proxy-groups:
       - 🇺🇸洛杉矶-9999-6-1
       - 🇺🇸洛杉矶-9999-11
       - 🇺🇸洛杉矶-9999-12
-      - diu7捞杰A
-      - diu7捞杰B
+      - 爱吃小鱼花生的哎呀呀1
+      - 爱吃小鱼花生的哎呀呀2
   - name: 📲 电报信息
     type: select
     proxies:
@@ -95,8 +95,8 @@ proxy-groups:
       - 🇺🇸洛杉矶-9999-6-1
       - 🇺🇸洛杉矶-9999-11
       - 🇺🇸洛杉矶-9999-12
-      - diu7捞杰A
-      - diu7捞杰B
+      - 爱吃小鱼花生的哎呀呀1
+      - 爱吃小鱼花生的哎呀呀2
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -114,8 +114,8 @@ proxy-groups:
       - 🇺🇸洛杉矶-9999-6-1
       - 🇺🇸洛杉矶-9999-11
       - 🇺🇸洛杉矶-9999-12
-      - diu7捞杰A
-      - diu7捞杰B
+      - 爱吃小鱼花生的哎呀呀1
+      - 爱吃小鱼花生的哎呀呀2
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -133,8 +133,8 @@ proxy-groups:
       - 🇺🇸洛杉矶-9999-6-1
       - 🇺🇸洛杉矶-9999-11
       - 🇺🇸洛杉矶-9999-12
-      - diu7捞杰A
-      - diu7捞杰B
+      - 爱吃小鱼花生的哎呀呀1
+      - 爱吃小鱼花生的哎呀呀2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -169,8 +169,8 @@ proxy-groups:
       - 🇺🇸洛杉矶-9999-6-1
       - 🇺🇸洛杉矶-9999-11
       - 🇺🇸洛杉矶-9999-12
-      - diu7捞杰A
-      - diu7捞杰B
+      - 爱吃小鱼花生的哎呀呀1
+      - 爱吃小鱼花生的哎呀呀2
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
