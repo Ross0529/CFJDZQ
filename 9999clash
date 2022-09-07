@@ -16,8 +16,8 @@ proxies:
   - {"type":"ssr","name":"🇺🇸洛杉矶-9999-6-1","server":"clash6.ssrfree6.xyz","port":443,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
   - {"type":"ssr","name":"🇺🇸洛杉矶-9999-11","server":"ssrfree3.free4444.xyz","port":22118,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
   - {"type":"vmess","name":"🇺🇸洛杉矶-9999-12","ws-opts":{"path":"/LCOVUWOD"},"server":"m6.v2rayfree1.xyz","port":"443","uuid":"8b17136b-1cde-4485-b3b7-0730acb6756c","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"ss","name":"diu7捞杰A","server":"64.112.42.53","port":16999,"cipher":"aes-256-gcm","password":"CBYyPc0GwoaQ9m2oqWdE"}
-  - {"type":"ss","name":"diu7捞杰B","server":"64.112.42.72","port":16999,"cipher":"aes-256-gcm","password":"CBYyPc0GwoaQ9m2oqWdE"}
+  - {"type":"ss","name":"爱吃小鱼花生的哎呀呀1","server":"64.112.42.53","port":16999,"cipher":"aes-256-gcm","password":"CBYyPc0GwoaQ9m2oqWdE"}
+  - {"type":"ss","name":"爱吃小鱼花生的哎呀呀2","server":"64.112.42.72","port":16999,"cipher":"aes-256-gcm","password":"CBYyPc0GwoaQ9m2oqWdE"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
