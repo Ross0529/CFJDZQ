@@ -1,15 +1,13 @@
 
-
-
-
-
-![波妞和宗介](https://user-images.githubusercontent.com/102322116/188733402-24aaacee-9d1f-4b82-bd36-645ef9d6f640.jpg)
-
-订阅
 Jsnzkpg
+
 https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
+
+
 Openit
+
 https://openit.daycat.space/clash  long  https  qx
+
 https://sharecentre.pro/Clash.yaml  long  https  Quanx.conf
 日抛节点
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash  sub
