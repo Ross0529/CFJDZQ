@@ -3,6 +3,11 @@
 
 ss://YWVzLTEyOC1nY206UmFoNXZRMkE3YWFIMmJNYjBlQXd0eUFmd2d1bnZaT1dpQjJuMjVXaEdtcDE@aws2.yydsdy.top:20000?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Daws2.yydsdy.top#AWS%F0%9F%87%B8%F0%9F%87%AC2%E5%8F%B7
 ss://YWVzLTEyOC1nY206NXBRRWlPeGo5MUNRYjQ1Rm10UVM0QXk1T2tOQmJRVm9lZ3I4ZjVScVA0eldnZnc1NDA4OA@aws1.yydsdy.top:30000?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Daws1.yydsdy.top#AWS%F0%9F%87%B8%F0%9F%87%AC1%E5%8F%B7
+
+trojan://4X1ebJpQWg@47.52.78.112:443/?type=ws&host=sg.yydsdy.top&path=%2Fc6c05fbac0e4&security=tls&sni=sg.yydsdy.top#Linode%E5%A5%97CDN
+trojan://4X1ebJpQWg@45.64.22.55:443/?type=ws&host=sg.yydsdy.top&path=%2Fc6c05fbac0e4&security=tls&sni=sg.yydsdy.top#Linode%E5%A5%97CDN%202
+trojan://4X1ebJpQWg@45.64.22.9:443/?type=ws&host=sg.yydsdy.top&path=%2Fc6c05fbac0e4&security=tls&sni=sg.yydsdy.top#Linode%E5%A5%97CDN%203
+
 trojan://4X1ebJpQWg@47.52.78.112:443/?type=ws&host=sg.yydsdy.top&path=%2Fc6c05fbac0e4&security=tls&sni=sg.yydsdy.top#Linode%E5%A5%97CDN
 trojan://4X1ebJpQWg@45.64.22.55:443/?type=ws&host=sg.yydsdy.top&path=%2Fc6c05fbac0e4&security=tls&sni=sg.yydsdy.top#Linode%E5%A5%97CDN%202
 trojan://4X1ebJpQWg@101.79.166.248:443/?type=ws&host=sg.yydsdy.top&path=%2Fc6c05fbac0e4&security=tls&sni=sg.yydsdy.top#Linode%E5%A5%97CDN%203
