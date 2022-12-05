@@ -1,5 +1,3 @@
-
-
 mixed-port: 7890
 allow-lan: true
 mode: Rule
@@ -18,9 +16,14 @@ dns:
 proxies:
   - {"type":"ss","name":"AWS🇸🇬2号","server":"aws2.yydsdy.top","port":20000,"cipher":"aes-128-gcm","password":"Rah5vQ2A7aaH2bMb0eAwtyAfwgunvZOWiB2n25WhGmp1","plugin":"obfs","plugin-opts":{"mode":"http","host":"aws2.yydsdy.top"}}
   - {"type":"ss","name":"AWS🇸🇬1号","server":"aws1.yydsdy.top","port":30000,"cipher":"aes-128-gcm","password":"5pQEiOxj91CQb45FmtQS4Ay5OkNBbQVoegr8f5RqP4zWgfw54088","plugin":"obfs","plugin-opts":{"mode":"http","host":"aws1.yydsdy.top"}}
-  - {"type":"trojan","name":"Linode套CDN","server":"47.52.78.112","port":443,"password":"4X1ebJpQWg","udp":true,"skip-cert-verify":true,"sni":"sg.yydsdy.top"}
-  - {"type":"trojan","name":"Linode套CDN2","server":"45.64.22.55","port":443,"password":"4X1ebJpQWg","udp":true,"skip-cert-verify":true,"sni":"sg.yydsdy.top"}
-  - {"type":"trojan","name":"Linode套CDN3","server":"101.79.166.248","port":443,"password":"4X1ebJpQWg","udp":true,"skip-cert-verify":true,"sni":"sg.yydsdy.top"}
+  - {"type":"trojan","name":"🇭🇰香港1","server":"20.239.198.103","port":443,"password":"f92f171e-2cac-46a9-8c03-0b2262dce516","udp":true,"skip-cert-verify":true,"sni":"data-hk.efpan.one"}
+  - {"type":"trojan","name":"🇭🇰香港2","server":"20.239.165.34","port":443,"password":"f92f171e-2cac-46a9-8c03-0b2262dce516","udp":true,"skip-cert-verify":true,"sni":"data-hk.efpan.one"}
+  - {"type":"trojan","name":"Linode套CDN_1","server":"47.52.78.112","port":443,"password":"4X1ebJpQWg","udp":true,"skip-cert-verify":true,"sni":"sg.yydsdy.top"}
+  - {"type":"trojan","name":"Linode套CDN2_1","server":"45.64.22.55","port":443,"password":"4X1ebJpQWg","udp":true,"skip-cert-verify":true,"sni":"sg.yydsdy.top"}
+  - {"type":"trojan","name":"Linode套CDN3_1","server":"45.64.22.9","port":443,"password":"4X1ebJpQWg","udp":true,"skip-cert-verify":true,"sni":"sg.yydsdy.top"}
+  - {"type":"trojan","name":"Linode套CDN_2","server":"47.52.78.112","port":443,"password":"4X1ebJpQWg","udp":true,"skip-cert-verify":true,"sni":"sg.yydsdy.top"}
+  - {"type":"trojan","name":"Linode套CDN2_2","server":"45.64.22.55","port":443,"password":"4X1ebJpQWg","udp":true,"skip-cert-verify":true,"sni":"sg.yydsdy.top"}
+  - {"type":"trojan","name":"Linode套CDN3_2","server":"101.79.166.248","port":443,"password":"4X1ebJpQWg","udp":true,"skip-cert-verify":true,"sni":"sg.yydsdy.top"}
   - {"type":"vmess","name":"Alvin9999V2ray免费账号","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"v2ray1.zhujicn2.org"}},"server":"141.101.114.100","port":443,"uuid":"4679f00e-90ce-430d-9714-6a19367ba112","alterId":0,"cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"https://github.com/Alvin9999/new-pac/wikig_美国","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"v2ray1.zhujicn2.org"}},"server":"141.101.114.100","port":"443","uuid":"4679f00e-90ce-430d-9714-6a19367ba112","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"ssr","name":"Alvin9999SSR免费账号","server":"ssr.zhujicn2.net","port":22666,"protocol":"auth_chain_a","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
@@ -108,9 +111,14 @@ proxy-groups:
       - DIRECT
       - AWS🇸🇬2号
       - AWS🇸🇬1号
-      - Linode套CDN
-      - Linode套CDN2
-      - Linode套CDN3
+      - 🇭🇰香港1
+      - 🇭🇰香港2
+      - Linode套CDN_1
+      - Linode套CDN2_1
+      - Linode套CDN3_1
+      - Linode套CDN_2
+      - Linode套CDN2_2
+      - Linode套CDN3_2
       - Alvin9999V2ray免费账号
       - https://github.com/Alvin9999/new-pac/wikig_美国
       - Alvin9999SSR免费账号
@@ -198,9 +206,14 @@ proxy-groups:
     proxies:
       - AWS🇸🇬2号
       - AWS🇸🇬1号
-      - Linode套CDN
-      - Linode套CDN2
-      - Linode套CDN3
+      - 🇭🇰香港1
+      - 🇭🇰香港2
+      - Linode套CDN_1
+      - Linode套CDN2_1
+      - Linode套CDN3_1
+      - Linode套CDN_2
+      - Linode套CDN2_2
+      - Linode套CDN3_2
       - Alvin9999V2ray免费账号
       - https://github.com/Alvin9999/new-pac/wikig_美国
       - Alvin9999SSR免费账号
@@ -288,9 +301,14 @@ proxy-groups:
       - 🎯 全球直连
       - AWS🇸🇬2号
       - AWS🇸🇬1号
-      - Linode套CDN
-      - Linode套CDN2
-      - Linode套CDN3
+      - 🇭🇰香港1
+      - 🇭🇰香港2
+      - Linode套CDN_1
+      - Linode套CDN2_1
+      - Linode套CDN3_1
+      - Linode套CDN_2
+      - Linode套CDN2_2
+      - Linode套CDN3_2
       - Alvin9999V2ray免费账号
       - https://github.com/Alvin9999/new-pac/wikig_美国
       - Alvin9999SSR免费账号
@@ -377,9 +395,14 @@ proxy-groups:
       - 🎯 全球直连
       - AWS🇸🇬2号
       - AWS🇸🇬1号
-      - Linode套CDN
-      - Linode套CDN2
-      - Linode套CDN3
+      - 🇭🇰香港1
+      - 🇭🇰香港2
+      - Linode套CDN_1
+      - Linode套CDN2_1
+      - Linode套CDN3_1
+      - Linode套CDN_2
+      - Linode套CDN2_2
+      - Linode套CDN3_2
       - Alvin9999V2ray免费账号
       - https://github.com/Alvin9999/new-pac/wikig_美国
       - Alvin9999SSR免费账号
@@ -466,9 +489,14 @@ proxy-groups:
       - 🚀 节点选择
       - AWS🇸🇬2号
       - AWS🇸🇬1号
-      - Linode套CDN
-      - Linode套CDN2
-      - Linode套CDN3
+      - 🇭🇰香港1
+      - 🇭🇰香港2
+      - Linode套CDN_1
+      - Linode套CDN2_1
+      - Linode套CDN3_1
+      - Linode套CDN_2
+      - Linode套CDN2_2
+      - Linode套CDN3_2
       - Alvin9999V2ray免费账号
       - https://github.com/Alvin9999/new-pac/wikig_美国
       - Alvin9999SSR免费账号
@@ -555,9 +583,14 @@ proxy-groups:
       - 🎯 全球直连
       - AWS🇸🇬2号
       - AWS🇸🇬1号
-      - Linode套CDN
-      - Linode套CDN2
-      - Linode套CDN3
+      - 🇭🇰香港1
+      - 🇭🇰香港2
+      - Linode套CDN_1
+      - Linode套CDN2_1
+      - Linode套CDN3_1
+      - Linode套CDN_2
+      - Linode套CDN2_2
+      - Linode套CDN3_2
       - Alvin9999V2ray免费账号
       - https://github.com/Alvin9999/new-pac/wikig_美国
       - Alvin9999SSR免费账号
@@ -661,9 +694,14 @@ proxy-groups:
       - ♻️ 自动选择
       - AWS🇸🇬2号
       - AWS🇸🇬1号
-      - Linode套CDN
-      - Linode套CDN2
-      - Linode套CDN3
+      - 🇭🇰香港1
+      - 🇭🇰香港2
+      - Linode套CDN_1
+      - Linode套CDN2_1
+      - Linode套CDN3_1
+      - Linode套CDN_2
+      - Linode套CDN2_2
+      - Linode套CDN3_2
       - Alvin9999V2ray免费账号
       - https://github.com/Alvin9999/new-pac/wikig_美国
       - Alvin9999SSR免费账号
